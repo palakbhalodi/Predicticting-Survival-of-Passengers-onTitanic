@@ -1,1 +1,1 @@
-# Predicticting-Survival-of-Passengers-onTitanic
+Predicticting-Survival-of-Passengers-on-Titanic
